@@ -23,7 +23,7 @@ const Index = () => {
       <div className="min-h-screen bg-gradient-to-br from-background via-background/80 to-background flex flex-col items-center justify-center p-4">
         <div className="text-center space-y-6 max-w-md">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-            SecureVPN
+            Lockline
           </h1>
           <p className="text-muted-foreground">
             Premium VPN service with unlimited bandwidth and global server access
@@ -47,7 +47,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-              SecureVPN
+              Lockline
             </h1>
             {subscribed && (
               <Crown className="w-5 h-5 text-primary" />
