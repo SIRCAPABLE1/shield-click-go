@@ -46,7 +46,7 @@ export const VPNDashboard = () => {
       <div className="mx-auto max-w-md space-y-6">
         <div className="text-center">
           <h1 className="text-3xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-            Lockline
+            SecureVPN
           </h1>
           <p className="text-muted-foreground mt-2">
             Your privacy, secured
